@@ -1,5 +1,5 @@
 # find average/
-num=[3,4,5]
+num=[32,41,28,34]
 total = sum(num)
 n = len(num)
 avg = total/n 
